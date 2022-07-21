@@ -1,0 +1,223 @@
+.homemain{
+ 
+    border:1px solid grey;
+    width:100%;
+    height:700px;
+    background-image: url("https://m.media-amazon.com/images/G/01/2022/homepage7.18/COOP-ASICS-KIDS-BTS-HERO-1080x720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.homemain1{
+    /* border:1px solid red; */
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    margin-right: 50px;
+    margin-top: 360px;
+    background-color:white;
+    padding: 20px;
+
+}
+.homemain1>h1{
+    font-size: 25px;
+    text-align: center;
+    font-family: open-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.homemain1 >h3{
+    text-align: center;
+    font-size: 20px;
+    font-family: open-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.homemain1>Button{
+    display: block;
+    margin: auto;
+}
+.homemain1>Button:hover{
+    background-color: black;
+    color: white;
+}
+/* ---------------------------------popular css----------------------------------------- */
+.popular{
+    border: 1px solid red;
+    width:100%;
+    height:900px;
+}
+.popular>h1{
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+.popular1{
+    border:1px solid red;
+    width:100%;
+    height:260px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.popdiv1{
+    display: block;
+    margin: auto;
+    height:200px;
+    opacity: 1;
+    
+}
+.popular2{
+    /* border:1px solid red; */
+    width:100%;
+    height:550px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.popular2-1{
+    /* border:1px solid green; */
+    width:420px;
+}
+.popdiv2{
+   
+    
+    height:"500px"
+
+}
+.popular2-1>h1,p{
+    text-align: center;
+    
+}
+.popular2-1>p{
+    margin-top: 10px;
+    
+}
+.popular2-1>h2{
+    text-align: center;
+   
+}
+.popular2-1>h2{
+   
+    border-width: 0;
+    
+    border-bottom: 1px solid #003953;
+    color: #003953;
+    display: inline-block;
+    font-size: 100%;
+    font: 700 14px Open Sans,sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    width:300px;
+    margin: auto;
+    margin-top: 10px;
+    
+
+}
+.popular2-1>h2:hover{
+    color: blue;
+}
+Link{
+    text-align: center;
+}
+/* ------------------------New arrival-------------------------------------------------- */
+.newarrival{
+    /* border:1px solid red; */
+    width:100%;
+    height:550px;
+    display: flex;
+}
+.newarrival01{
+    /* border:1px solid red; */
+    height: 100%;
+    width: 25%;
+
+}
+.newarrival1{
+    /* border: 1px solid red; */
+    width:97%;
+    height:75%;
+margin-left: 10px;
+background-image: url("https://m.media-amazon.com/images/G/01/zappos/landing/sandbox/brian/new-arrivals/na-feed-1x.png");
+background-repeat: no-repeat;
+background-size: cover
+}
+.newarrival2{
+    /* border: 1px solid red; */
+    width:75%;
+    height:100%;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.new{
+    /* border:1px solid red; */
+    display: block;
+    margin: auto;
+    margin-top: 160px; 
+}
+/* ------------------------------------------kids css------------------------------------- */
+.kids{
+    /* border: 1px solid red; */
+    width:100%;
+    height:550px;
+    display: flex;
+    margin: 20px;
+
+
+}
+.kids1{
+    /* border:1px solid red; */
+    width:35%;
+    height: 100%;
+
+}
+.kids1-1{
+    /* border:1px solid green; */
+    width:85%;
+    height:50%;
+   
+    margin: auto;
+    margin-top: 150px;
+}
+.kids1-1>h1{
+    font-size: 30px;
+    text-align: center;
+}
+.kids1-1>Button{
+    display: block;
+    margin: auto;
+}
+.kids1-1>Button:hover{
+    background-color: black;
+    color: white;
+}
+.kids2{
+    background-image: url("https://m.media-amazon.com/images/G/01/2022/homepage7.18/COOP-UGG-KIDS-AOE-1080x720.jpg");
+    background-size: cover;
+    /* border: 1px solid red; */
+    width:70%;
+    height:100%;
+
+}
+/* ----------------------------------------------PopularItems----------------------------------- */
+.PopularItems{
+    /* border:1px solid red; */
+    width: 100%;
+    height:450px;
+}
+.PopularItems>h1{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.PopularItems1{
+    /* border: 1px solid red; */
+    margin: 20px;
+    height: 85%;
+    
+   
+}
+.sliderimage{
+    display: block;
+    margin: auto;
+}
