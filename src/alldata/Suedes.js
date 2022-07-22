@@ -1,0 +1,78 @@
+export const Suedes=[
+    {
+        id:1,
+        S_avatar:"https://m.media-amazon.com/images/I/71CqKYbcA3L._AC_SX255_.jpg",
+        S_number:461,
+        S_brand:"Birkenstock",
+        S_name:"Arizona Soft Footbed  - Suede (Unisex)",
+        S_price:140.00,
+        rating:4,
+    },
+    {
+        id:2,
+        S_avatar:"https://m.media-amazon.com/images/I/71JX4PjmkDL._AC_SX255_.jpg",
+        S_number:634,
+        S_brand:"Birkenstock",
+        S_name:"Gizeh Braided",
+        S_price:135,
+        rating:3,
+    },
+    {
+        id:3,
+        S_avatar:"https://m.media-amazon.com/images/I/61CPKNuTfGL._AC_SX255_.jpg",
+        S_number:182,
+        S_brand:"Birkenstock",
+        S_name:"Arizona Earthy Vegan",
+        S_price:110,
+        rating:5,
+    },
+    {
+        id:4,
+        S_avatar:"https://m.media-amazon.com/images/I/715HZIo6VQL._AC_SX255_.jpg",
+        S_number:471,
+        S_brand:"Birkenstock",
+        S_name:"Glenda by Papillio",
+        S_price:125,
+        rating:4,
+    },
+   
+
+]
+export const sudes1=[
+    {
+        id:5,
+        S_avatar:"https://m.media-amazon.com/images/I/718YWBy22nL._AC_SX255_.jpg",
+        S_number:283,
+        S_brand:"Birkenstock",
+        S_name:"Gizeh Braided",
+        S_price:140,
+        rating:3,
+    },
+    {
+        id:6,
+        S_avatar:"https://m.media-amazon.com/images/I/71eqSqz3bfL._AC_SX255_.jpg",
+        S_number:209,
+        S_brand:"Birkenstock",
+        S_name:"Arizona Soft Footbed",
+        S_price:125,
+        rating:5,
+    },
+    {
+        id:7,
+        S_avatar:"https://m.media-amazon.com/images/I/71obW6DTZjL._AC_SX255_.jpg",
+        S_number:184,
+        S_brand:"Birkenstock",
+        S_name:"Glenda by Papillio",
+        S_price:135,
+        rating:2,
+    },
+    {
+        id:8,
+        S_avatar:"https://m.media-amazon.com/images/I/61mX6yjKOTL._AC_SX255_.jpg",
+        S_number:356,
+        S_brand:"Birkenstock",
+        S_name:"Glenda by Papillio",
+        S_price:110,
+        rating:3,
+    },
+]
