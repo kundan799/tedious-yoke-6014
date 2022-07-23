@@ -1,0 +1,63 @@
+.login_image{
+    /* border:1px solid red; */
+    width:240px;
+    height:80px;
+    margin: auto;
+    
+}
+.L_image{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .login{
+    border:1px solid 
+    #979797;
+    width:350px;
+    height:500px;
+    border-radius: 5px;
+    padding: 20px;
+    margin: auto;
+ }
+ .login>h1{
+    font-size: 28px;
+    font-weight: 400;
+    font-family: Arial, sans-serif;
+    line-height: 34px;
+    color: #1f1f1f;
+    
+
+ }
+ .newtozappos>p{
+    color:grey
+    
+ }
+ .L_footer{
+    /* border: 1px solid red; */
+    width:400px;
+    height:60px;
+    margin: auto;
+}
+.L_footer_1>p{
+    font-size: 12px;
+    text-align: center;
+    color: #003953;
+}
+.L_footer>h5{
+    font-size: 12px;
+    text-align: center;
+}
+.L_footer_1>p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+.L_footer_1{
+    display: flex;
+    justify-content: space-evenly;
+
+    gap: 20px;
+}
