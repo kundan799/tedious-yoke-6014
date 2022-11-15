@@ -35,6 +35,7 @@ import {
 import { products } from "../alldata/product";
 import { isd } from "../alldata/isd";
 import Signin from "./Signin";
+import { Navigate, useNavigate } from "react-router-dom";
 
 // const   isd =["#"," A"," B"," C"," D","E","F","G","H","I","J"," K"," L"," M","N"," O",
 // "P","R"," S","T"," U"," V"," W","X"," Y"," Z"]
@@ -43,6 +44,7 @@ const Navbar = () => {
   const [data, setData] = useState(isd);
   const [data1, setData1] = useState(products);
   const { isOpen, onOpen, onClose } = useDisclosure();
+  const navigate=useNavigate()
   
   const btnRef = React.useRef();
   return (
@@ -164,7 +166,8 @@ const Navbar = () => {
           }}
         >
           <div style={{ width: "14%", height: "100%" }}>
-            <Link to="/">
+            
+             
               <img
                 style={{
                   width: "100px",
@@ -172,10 +175,12 @@ const Navbar = () => {
                   margin: "auto",
                   marginTop: "12px",
                 }}
+                onClick={()=>navigate("/")}
                 src="https://m.media-amazon.com/images/G/01/zappos/melody/zapposPBS._CB1509642213_.svg"
                 alt="logo3"
               />
-            </Link>
+           
+           
           </div>
           <div
             style={{

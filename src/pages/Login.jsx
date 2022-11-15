@@ -56,7 +56,7 @@ const Login = () => {
   };
   return (
     <div>
-      <h1>login</h1>
+     
       <div className="login_image">
         <img
           className="L_image"
