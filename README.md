@@ -1,5 +1,5 @@
 
-# Harvest (TimeTracking website) <br /> An app for easy way to track time across projects
+# Zappos (e-commerce website)
 Zappos is an e-commerce website where we can buy cloth and shoes.we build clone of their store website
 
 ## https://kk-kundan799.vercel.app/
