@@ -32,10 +32,8 @@ npm Start
 
 
 
-Now go to server Directory and run the server
-```
-npm run server
-```
+
+
 
 ## Contributors :
 
